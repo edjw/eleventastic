@@ -46,7 +46,7 @@ For example, if you have a `github.svg` file in that folder, you can display it 
 
 ## Critical CSS
 
-Currently, ciritcal CSS will only be inlined in the head of the homepage. This is done by using the [critical](https://github.com/addyosmani/critical) package in an automatic transform.
+Currently, critical CSS will only be inlined in the head of the homepage. This is done by using the [critical](https://github.com/addyosmani/critical) package in an automatic transform.
 
 ## Credits
 
